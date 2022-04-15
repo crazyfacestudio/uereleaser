@@ -1,5 +1,5 @@
 # uereleaser
-[![Build Status](https://github.com/terraform-linters/tflint-ruleset-template/workflows/build/badge.svg?branch=main)](https://github.com/terraform-linters/tflint-ruleset-template/actions)
+[![Build Status](https://github.com/crazyfacegames/uereleaser/workflows/build/badge.svg?branch=main)](https://github.com/crazyfacegames/uereleaser/actions)
 
 A release tool for Unreal Engine
 
